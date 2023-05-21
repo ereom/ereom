@@ -1,4 +1,4 @@
-## Olá, eu sou o Erê. Estudante de Desenvolvimento Web 😎
+## Olá, eu sou o Erê. Analista Desenvolvedor Web JR 😎
 
  <div>
   <a href="https://github.com/ereom">
